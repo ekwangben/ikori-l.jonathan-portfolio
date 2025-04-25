@@ -1,0 +1,17 @@
+PROFILE PHOTO INSTRUCTIONS
+
+Please rename your professional photo to "profile-photo.jpg" and place it in this directory.
+
+The photo should be:
+- Professional quality
+- Clear headshot or upper body shot
+- Square aspect ratio (1:1)
+- Minimum size of 500x500 pixels
+- JPG format
+- Well-lit with a neutral background
+
+This photo will appear in two places on your portfolio website:
+1. The header/hero section at the top of the page
+2. The About Me section
+
+If your photo is in a different format (PNG, etc.), make sure to convert it to JPG and name it "profile-photo.jpg".
